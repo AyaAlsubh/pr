@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&display=swap');
+.navbar {
+    background-color: white;
+    overflow: hidden;
+    justify-content: end;
+    padding: 17px 17px;
+    
+  }
+  
+  .navbar .h5 {
+    float: left;
+    display: block;
+    color: #1400eee4;
+    text-align: center;
+    text-decoration: none;
+   
+   padding-right: 950px;
+  }
+  .h5{
+    font-size: 20px;
+  }
+  #na{
+    font-size: 20px;
+    color: #1400eee4;
+   text-decoration: none;
+  }
+  .navbar :hover {
+    background-color: #fefefee4;
+    color: #1400eee4;
+    border-radius: 40px;
+    font-size: 30px;
+  }
+ body{
+    background-image: url('./img/ll.png');
+    background-size:contain;
+    background-position:center;
+    background-attachment:fixed;
+ } 
+.container {
+    margin-top: 5%;
+    padding: 2rem;
+    border: 1px solid #1400eee4;
+    border-radius: 24px;
+    padding: 24px;
+    background-color: white;
+    width: 100%;
+    max-width: 800px;
+    box-sizing: border-box;
+    margin-left: 300px;
+}
+.container h1 {
+    margin-left: 70%;
+    color:#1400eee4;
+}
+.container p{
+    margin-left: 60%;
+    color: #1400eee4;
+    
+}
+ .h3{
+  font-size: 30px;
+ }
+.h6{
+  font-size: 20px;
+}
+
+ 
+  
+ 
+.navbar .dd .h5{
+  padding-left: 100px;
+  
+  
+}
+
+.home .container .h3{
+  text-align: center;
+  color:#1400eee4 ;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.home .container .h6{
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.server-section-cards-containar{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+
+}
+#icon{width: 44%;
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    border: 3px solid transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #1400eee4;
+    text-align: center;
+}
+#icons{
+  width: 200px;
+    height: 200px;
+    background-image: url("./img/server.png");
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+  background-size: cover;
+}
+
+#islam{
+  width: 44%;
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    border: 3px solid transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #1400eee4;
+    text-align: center;
+
+}
+#islam2{
+  width: 200px;
+    height: 200px;
+    background-image: url("./img/serverr.png");
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+  background-size: cover;
+}
+#task{
+  width: 44%;
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    border: 3px solid transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid  #1400eee4;
+    text-align: center;
+
+}
+#task2{
+  width: 200px;
+    height: 200px;
+    background-image: url("./img/connect.png");
+    background-repeat: no-repeat;
+    margin-bottom: 15px;
+  background-size: cover;
+}
+#t{
+ text-decoration: solid;
+ text-align: center;
+ margin-bottom: 200px;
+}
+
+
+.nnn {
+   
+  margin-top: 5%;
+ 
+  border: 1px solid #1400eee4;
+  border-radius: 24px;
+  margin-left: 500px;
+  background-color: white;
+  width:600px;
+  height: 600px;
+  box-sizing: border-box;
+  
+
+}
+.nnn h1 {
+  margin-left: 70%;
+  color: #1400eee4;
+}
+
+#gg{
+     background-image: url('./img/serverr.png');
+        background-repeat: no-repeat;
+    padding-right: 300px;
+        width: 200px;
+        height: 200px;
+    
+      background-size: cover;
+  
+    }
+#is{
+width: 400px;
+        height: 350px;
+       background-image: url('./img/face.png');
+        background-repeat: no-repeat;
+       margin-right: 500px;
+      background-size: cover;
+     
+      
+}
+
+.video-card {
+border: 1px solid #ddd;
+border-radius: 10px;
+margin: 20px;
+margin-left: 30px;
+padding: 20px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.video-container {
+margin-top: 10px;
+margin-left: 30px;
+display: flex;
+justify-content: center;
+}
+#pp{
+margin-top: 30px;
+font-family: 'Outfit', sans-serif;
+font-size:x-large;
+background-color:#1400eee4;
+}
+
+#ull{
+font-size: 30px;
+}
